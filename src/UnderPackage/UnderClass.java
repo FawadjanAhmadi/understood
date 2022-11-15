@@ -8,6 +8,9 @@ public class UnderClass {
 		System.out.println(a);
 int faad=34;
 System.out.println(faad);
+int samad =34;
+System.out.println(samad);
+
 	}
 
 }
