@@ -7,6 +7,7 @@ public class UnderClass {
 		int a =34;
 		System.out.println(a);
 int faad=34;
+System.out.println(faad);
 	}
 
 }
